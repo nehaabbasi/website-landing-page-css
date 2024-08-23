@@ -1,0 +1,196 @@
+body{
+background-color: rgb(197, 176, 149);}
+
+.main{
+background-color: rgb(75, 69, 69);
+height: 80px;
+margin-top: -20px;
+color: aliceblue;
+display: flex;}
+
+
+ul li{
+list-style-type: none;}
+
+
+ul{
+display: flex;
+font-size: larger;
+gap: 25px;
+margin-left: 270px;
+margin-top: 33px;}
+
+.input{
+margin-top: 23px;
+margin-left: 144px;
+padding: 11px;
+width: 80%;
+border-radius: 20px;
+
+
+}
+
+.maininputfield{
+position: relative;
+width: 300px;
+}
+
+
+
+.fa {
+position: absolute;
+top: 16px;
+right: 65px;
+margin-top: 2px;
+color: black;
+margin-left: 10%;}
+
+
+.maintwo{
+background-color: rgb(61, 58, 58);
+height: 440px;
+width: 25%;
+margin-left: 50px;
+margin-top: 40px;
+position: relative;
+
+}
+
+.fa{
+    position: absolute;
+ margin-top: 2px;
+background-color: aliceblue;
+margin-left: 290px;
+}
+
+
+ .againinput{
+margin-left: 29px;
+padding: 10px;
+border-radius: 7px;
+width: 240px;
+margin-top: 17px;}
+
+.new{
+text-align: center;
+font-weight: bolder;
+font-size: larger;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text{
+margin-top: 30px;
+
+}
+
+
+.fully{
+margin-left: 140%;
+margin-top: -80%;
+font-weight: bolder;
+font-size: xx-large;
+
+}
+.bar{
+    margin-left: 140%;
+    margin-top: -20px;
+    font-weight: bolder;
+    font-size: 50PX;
+white-space: nowrap;}
+
+.Search{
+    margin-left: 140%;
+    margin-top: -30PX;
+    font-weight: bolder;
+    font-size: 50PX;
+    white-space: nowrap;
+    width: 540px;
+    height: 60px;
+    background-color: rgb(109, 103, 103);
+    color: aliceblue;
+border-color: 2px solid black;
+}
+
+    .last{
+        margin-left: 140%;
+        margin-top: -30PX;
+        font-weight: bolder;
+        font-size: 50PX;
+        white-space: nowrap;
+        width: 690px;
+        height: 60px;
+       border: 8px solid black;
+        color: rgb(46, 46, 46);
+
+
+    }
+   a {
+    color: black;
+    text-decoration: none;
+   }
+
+   a:hover {
+ color: rgb(157, 218, 172);
+   }
+
+
+
+
+}
+
+;
+
+
+
+
+
+
+
+
+    
+ 
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+<i class="fa fa-search" style="font-size:24px"></i>
